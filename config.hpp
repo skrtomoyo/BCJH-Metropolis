@@ -8,7 +8,7 @@
 #define ITER_CHEF 3000     // 选择厨师时的迭代次数
 #define ITER_RECIPE 4000 // 对于每一组厨师，选择菜谱时的迭代次数
 #define BANQUET true     // 宴会模式
-#define AVOID_CHEF_1 true
-#define AVOID_CHEF_2 true
-#define AVOID_CHEF_3 true // 计算时不考虑三火厨师
+#define AVOID_CHEF_1 false
+#define AVOID_CHEF_2 false
+#define AVOID_CHEF_3 false // 计算时不考虑三火厨师
 #endif
